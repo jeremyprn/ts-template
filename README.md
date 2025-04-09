@@ -37,14 +37,4 @@ pnpm build
 pnpm start
 ```
 
-## Project Structure
-
-├── src/
-│   ├── main.ts                 # Entry point
-│   ├── services/
-│   │   └── logger.service.ts   # Custom logger using winston
-├── tsconfig.json               # Typescript configuration
-├── register-loader.mjs         # ES Modules loader
-├── package.json                # Project configuration
-└── README.md   
 
